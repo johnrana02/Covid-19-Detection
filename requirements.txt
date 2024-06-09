@@ -1,7 +1,7 @@
 tensorflow
 pandas 
 numpy
-skimage
+scikit-image
 scikit-learn
 dvc
 mlflow
@@ -17,4 +17,4 @@ scipy
 Flask
 Flask-Cors
 gdown
--e
+

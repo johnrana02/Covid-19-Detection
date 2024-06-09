@@ -8,7 +8,7 @@ def parse_requirements(filename):
     return requirements
 
 setup(
-    name='covid19_detection',  
+    name='cnnclassifier',  
     version='0.1.0',  # Initial release version 
     author='johnrana02',  
     author_email='anujrana89114@gmail.com', 
